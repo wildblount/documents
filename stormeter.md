@@ -1,21 +1,21 @@
-# Storm Sentinel – Your Early Warning Storm Alarm System
+# Stormeter – Your Early Warning Storm Alarm System
 
-Stay ahead of the storm with **Storm Sentinel**, the ultimate barometric pressure monitoring app designed to keep you informed and safe. Whether you're an outdoor enthusiast, weather watcher, or simply want peace of mind, Storm Sentinel gives you early alerts when sudden pressure drops indicate potential storms like hurricanes, tornadoes, or thunderstorms.
+Stay ahead of the storm with **Stormeter**, the ultimate barometric pressure monitoring app designed to keep you informed and safe. Whether you're an outdoor enthusiast, weather watcher, seasoned sailor, or simply want peace of mind, Stormeter gives you early alerts when sudden pressure drops indicate potential storms like tornadoes, hurricanes, thunderstorms or fast approaching squalls.
 
 ---
 
-## 🌪 Why Choose Storm Sentinel?
+## 🌪 Why Choose Stormeter?
 
-Storms often arrive with little warning—but changes in atmospheric pressure can reveal them before they strike. **Storm Sentinel continuously monitors barometric pressure trends**, even while your phone is in your pocket or the app is in the background.
+Storms often arrive with little warning—but changes in atmospheric pressure can reveal them before they strike. **Stormeter continuously monitors barometric pressure trends**.
 
-Using advanced local pressure tracking, real-time alerts, and visual alarms, Storm Sentinel keeps you informed about dangerous weather patterns **before traditional forecasts do**.
+Using advanced local pressure tracking, real-time alerts, and visual alarms, Stormeter keeps you informed about dangerous weather patterns **even when traditional weather forecasts fail to alert you precisely and timely**.
 
 ---
 
 ## 🔔 Key Features
 
 - **⏱ Real-Time Barometric Monitoring**  
-  Tracks pressure changes in real time using your device’s built-in barometer (no internet required).
+  Tracks pressure changes in real time using your device’s built-in barometer (no internet required). For best results, keep the app in foreground and plugged into a power source.
 
 - **🚨 Smart Storm Alerts**  
   Receive instant alerts with sound, vibration, and full-screen flashing when pressure thresholds indicate danger.
@@ -27,10 +27,7 @@ Using advanced local pressure tracking, real-time alerts, and visual alarms, Sto
   Silence the alarm with a single tap—alerts resume if pressure continues to drop.
 
 - **📉 Visual History & Charts**  
-  View detailed pressure trends and breach events with interactive, time-based charts.
-
-- **📲 Runs in the Background**  
-  Stay protected at all times—Storm Sentinel works even when the app is closed or the screen is off.\*
+  View detailed pressure trends with interactive, time-based charts.
 
 - **🔒 Fully Local Processing**  
   No cloud processing or tracking. Your pressure data stays on your device for maximum privacy.
@@ -39,30 +36,29 @@ Using advanced local pressure tracking, real-time alerts, and visual alarms, Sto
 
 ## 🔧 Customization Options
 
-- Set your own pressure breach thresholds for each storm type  
-- Choose how long alarms stay active  
-- Select auto-timeout options (1, 2, 5, 10, or 30 minutes)  
-- Adjust sensitivity for fewer false alarms or more aggressive detection
-
+- Set what types of storms are to be monitored 
+- Choose how long alarms stay active  with auto-timeout options
+  
 ---
 
 ## 📊 Perfect for:
 
+- If tornado warnings are issued and you need to know if one is near you  
 - Hikers, campers, and adventurers  
-- Boaters and offshore workers  
+- Boaters and offshore sailors  
 - People in storm-prone regions  
-- Anyone who wants a local backup to weather apps
+- Anyone who appreciates the nostalgic beauty of wheel barometers first invented almost 400 years ago  
 
 ---
 
 ## ⚠️ Important Notes
 
-- Storm Sentinel requires a device with a barometric sensor (most newer smartphones support this).  
-- Background monitoring may require enabling special permissions or using a development build of the app depending on your platform.  
-- While Storm Sentinel offers early pressure-based warnings, it is **not a substitute** for official weather advisories.
+- Stormeter requires a device with a barometric sensor (most newer smartphones support this).  
+- Background monitoring may require enabling special permissions or using a future build of the app depending on your platform.  
+- While Stormeter offers early pressure-based warnings, it is **not a substitute** for official weather advisories.
 
 ---
 
 Be ready before the storm hits.  
-**Download Storm Sentinel and stay safe, wherever you are.**
+**Download Stormeter and stay safe, available on Apple Store today.**
 
