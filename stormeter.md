@@ -56,6 +56,7 @@ Using advanced local pressure tracking, real-time alerts, and visual alarms, Sto
 - Stormeter requires a device with a barometric sensor (most newer smartphones support this).  
 - Background monitoring may require enabling special permissions or using a future build of the app depending on your platform.  
 - While Stormeter offers early pressure-based warnings, it is **not a substitute** for official weather advisories.
+- **For best results, especially if storms or tornados are forecast to be in your vincinity, keep your device plugged to a power source and check off 'Alarm' and 'Keep Awake'. When a tornado approaches, you only have a couple of precious minutes to respond. When the app is in the background, it may take up to an hour to refresh the pressure reading.**
 
 ---
 
