@@ -36,8 +36,8 @@ Using advanced local pressure tracking, real-time alerts, and visual alarms, Sto
 
 ## 🔧 Customization Options
 
-- Set what types of storms are to be monitored 
 - Choose how long alarms stay active  with auto-timeout options
+- Set what types of storms are to be monitored: Tornado, Hurricane, and Thunderstorm. The corresponding triggering pressure levels are displayed around the Gauge to visually indicate the level of risks compared to the current pressure reading. Specifically, the past pressures are fed into time series formulas suitable to the characteristics of the storms. Typically, tornados are evolving the fastest, in minutes, and thunderstorms move more slowly, whereas hurricanes are slowest.
 
 <img src="IMG_1218.PNG" width="300" />
   
