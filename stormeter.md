@@ -38,6 +38,8 @@ Using advanced local pressure tracking, real-time alerts, and visual alarms, Sto
 
 - Set what types of storms are to be monitored 
 - Choose how long alarms stay active  with auto-timeout options
+
+  ![Screenshot](IMG_1218.PNG)
   
 ---
 
